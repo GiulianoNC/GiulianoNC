@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working **Backend Development**
 
-- 👨‍💻 Explore my projects at <a href="[mailto:capovillagiuliano@gmail.com](https://giulianonc.github.io/)" target="_blank">
+- 👨‍💻 Explore my projects at <a href="[https://giulianonc.github.io/)" target="_blank">
 
 - 💬 Ask me about **JAVA,DART, ANDROID, IOS**
 

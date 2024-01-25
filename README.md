@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working **Backend Development**
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app]([https://ahmadpiracha.netlify.app](https://giulianonc.github.io/))
+- 👨‍💻 Explore my projects at <a href="https://ahmadpiracha.netlify.app]
 
 - 💬 Ask me about **JAVA,DART, ANDROID, IOS**
 
